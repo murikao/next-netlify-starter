@@ -6,11 +6,12 @@ export default function Footer() {
       <footer className={styles.footer}>
         Made with{"  "}
         <img
-          src="/netliheart.svg"
+          src="/love.svg"
           alt="Netlify Logo"
           className={styles.logo}
         />{" "}
         for you by &nbsp;<font color={"red"}> Murikao</font>
+        <p></p>
       </footer>
     </>
   );

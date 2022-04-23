@@ -11,10 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bem vindo ao Netlify starter para NextJS!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Uma Alternativa para hospedagem grátis para api e servers, via serverside render e prisma
         </p>
+        <p>
+          Para testar remova o código e susbtitua pelo que você tem para deploy.
+        </p>
+        <p>Veja o README.md</p>
       </main>
 
       <Footer />
