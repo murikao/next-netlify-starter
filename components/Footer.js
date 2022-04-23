@@ -11,7 +11,7 @@ export default function Footer() {
           className={styles.logo}
         />{" "}
         for you by &nbsp;<font color={"red"}> Murikao</font>
-        <p></p>
+        <p>₢Murikao</p>
       </footer>
     </>
   );

@@ -37,3 +37,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 3. Make your changes
 4. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
    [![Netlify Status](https://api.netlify.com/api/v1/badges/a11de1cb-5175-4c80-a0db-f9eac5c4f7e6/deploy-status)](https://app.netlify.com/sites/ecstatic-franklin-8b6def/deploys)
+
+
+Toda vez que for fazer um link com github tem que ir lá e dar permisssão [Netlify -> Github](https://github.com/settings/installations/6495644)
